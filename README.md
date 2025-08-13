@@ -14,3 +14,6 @@ You may need to choose your solution and potential. It is valid for single and t
 This version is created by Islam M. Albazlamit
 
 islam.albazlamit@outlook.com
+
+LinkedIn: https://www.linkedin.com/in/islambzl/
+
