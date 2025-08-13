@@ -7,8 +7,10 @@ The original implementation, written in FORTRAN by Prof Usama AL Khawaja, provid
 
 
 
-
+*********************************
 You may need to choose your solution and potential. It is valid for single and two-soliton solutions. 
 
+*********************************
+This version is created by Islam M. Albazlamit
 
-This version is created by Islam M. Albazlamit, islam.albazlamit@outlook.com
+islam.albazlamit@outlook.com
