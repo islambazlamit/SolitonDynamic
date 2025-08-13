@@ -10,6 +10,9 @@ The original implementation, written in FORTRAN by Prof Usama AL Khawaja, provid
 *********************************
 You may need to choose your solution and potential. It is valid for single and two-soliton solutions. 
 
+The original code is used in different research papers. The Solution used in this code can be found in DOI: https://doi.org/10.1103/PhysRevE.107.014202
+
+
 *********************************
 
 IDE: Xcode
