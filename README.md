@@ -30,3 +30,6 @@ LinkedIn: https://www.linkedin.com/in/islambzl/
 
 *********************************
 
+Note:
+
+The current version is being refactored for greater clarity and ease of use.
